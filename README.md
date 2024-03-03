@@ -13,7 +13,7 @@ This Laravel project aims to provide a platform for users to upload their medica
 ## Installation
 
 1. Clone the repository to your local machine:
-        - https://github.com/akilagn/medical-prescription
+        - [https://github.com/akilagn/medical-prescription](https://github.com/akilagn/medical-prescription.git)
 
 2. Navigate to the project directory:
         - cd medical-prescription
